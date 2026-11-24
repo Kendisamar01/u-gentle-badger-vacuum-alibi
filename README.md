@@ -10,4 +10,6 @@ See the bounty on [make.fun](https://make.fun/bounty/u-gentle-badger-68-the-vacu
 
 ## Entry
 
-`entry.txt` holds the one-line entry. No build step: read the file.
+`entry.txt` holds the one-line entry. `python3 main.py` prints it.
+
+I did not miss that spot. I was letting the dust finish its sentence.
